@@ -1,0 +1,4 @@
+VERSION = "0.1.0"
+NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
+SIGNING_KEY = "G...."                                    # Replace with auth key public address
+ACCOUNTS = ["G...."]

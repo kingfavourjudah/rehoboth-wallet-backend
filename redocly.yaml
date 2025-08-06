@@ -1,0 +1,27 @@
+theme:
+  openapi:
+    disableSearch: false
+    expandResponses: all
+    jsonSamplesExpandLevel: 2
+
+    theme:
+      sidebar:
+        backgroundColor: "#f2f0eb"
+        textColor: "#1f1f1f"
+
+      colors:
+        primary:
+          main: "#0052cc"
+        success:
+          main: "#28a745"
+        error:
+          main: "#dc3545"
+        warning:
+          main: "#ffc107"
+
+      typography:
+        fontSize: 14pt
+        fontFamily: "Inter, Segoe UI, Helvetica, Arial, sans-serif"
+        headings:
+          fontWeight: "600"
+          fontFamily: "Inter, Segoe UI, Helvetica, Arial, sans-serif"
